@@ -19,10 +19,10 @@ Pull requests are welcome. To push to main needs the approval of at least one ot
 
 Code should be in their individual forked projects. This will be a repo with multiple independent forks that all are based on the assets in main. Please see naming scheme below.
 
-Single person project: <name>_dev  
+Single person project: name_dev  
 Example: gatreh_dev
 
-Group project: <group name>_<fork>  
+Group project: groupName_fork  
 Example with the group name bees:
  - bees_prod
  - bees_dev  
