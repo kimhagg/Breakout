@@ -17,17 +17,17 @@ This is a repository for breakout assets in main with forks of the code for spec
 
 Pull requests are welcome. To push to main needs the approval of at least one other person involved with the project and may change in the future if more people join to make games with these assets.
 
-Code should be in their individual forked projects. This will be a repo with multiple independent forks that all are based on the assets in main. Please see naming scheme below.
+Code should be in their individual branched projects. This will be a repo with multiple independent branches that all are based on the assets in main. Please see naming scheme below.
 
-Single person project: name_dev  
+Single person project: name_branch
 Example: gatreh_dev
 
-Group project: groupName_fork  
+Group project: groupName_branch 
 Example with the group name bees:
  - bees_prod
  - bees_dev  
 
-Group project should have at least 2 forks. prod and dev with dev being forked further for features being developed.
+Group project should have at least 2 branches. prod and dev with dev branching further for features being developed.
 
 ## License
 
